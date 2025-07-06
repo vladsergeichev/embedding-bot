@@ -6,7 +6,7 @@ Telegram-бота с векторным поиском
 - **Python**: 3.12.10
 - **Telegram Bot**: aiogram 3.7.0
 - **Vector Database**: Qdrant
-- **Embeddings**: sentence-transformers 2.5.1 (многоязычная модель)
+- **Embeddings**: sentence-transformers
 
 ## Quick Start
 ### 1. Подготовка
